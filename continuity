@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Неперервність</title>
+    <style>
+        body { background-color: #dff0d8; }
+    </style>
+</head>
+<body>
+    <h1>Неперервність</h1>
+    <p><strong>Неперервність</strong> функції означає, що невеликі зміни в аргументі викликають невеликі зміни в значенні функції.</p>
+    <p><em>Формальне означення:</em> Функція f(x) називається неперервною в точці a, якщо виконується умова:  
+    \( \lim\limits_{x \to a} f(x) = f(a) \).</p>
+    <p>Детальніше у <a href="https://uk.wikipedia.org/wiki/Неперервність_функції" target="_blank">Вікіпедії</a>.</p>
+</body>
+</html>
